@@ -1,29 +1,29 @@
 # Adapage React
 
-Un projet web moderne et performant construit avec **React 19** et **Vite**, utilisant **TypeScript** pour la robustesse et **TailwindCSS 4** pour un style élégant et responsive.
+A modern and high-performance web project built with **React 19** and **Vite**, using **TypeScript** for robustness and **TailwindCSS 4** for an elegant, responsive style.
 
 ![Hero](./src/public/hero.png)
 
 ## Description
 
-Ce projet est une application web vitrine qui met en avant différentes sections clés :
+This project is a showcase web application highlighting several key sections:
 
-- **Accueil** : Présentation principale.
-- **Fonctionnalités** : Mise en valeur des atouts de Mia Goth.
-- **Chronologie** : Visualisation d'un parcours et d'une évolution.
-- **Témoignages** : Retours d'expérience de Mia Goth.
+- **Home**: Main presentation.
+- **Features**: Highlighting Mia Goth's strengths.
+- **Timeline**: Visualization of a journey and evolution.
+- **Testimonials**: Feedback and experiences from Mia Goth.
 
-## Fonctionnalités
+## Features
 
--  **Performance** : Démarrage instantané et HMR rapide grâce à Vite.
--  **Design Moderne** : Interface utilisateur soignée avec TailwindCSS 4.
--  **Responsive** : Adapté à tous les écrans (mobile, tablette, desktop).
--  **Navigation** : Routing fluide géré par React Router Dom 7.
--  **Typage Fort** : Codebase maintenable et sécure avec TypeScript.
+- **Performance**: Instant startup and fast HMR thanks to Vite.
+- **Modern Design**: Polished user interface with TailwindCSS 4.
+- **Responsive**: Adapted to all screen sizes (mobile, tablet, desktop).
+- **Navigation**: Smooth routing managed by React Router Dom 7.
+- **Strong Typing**: Maintainable and secure codebase with TypeScript.
 
 ## Technologies
 
-Ce projet utilise les dernières technologies du développement web :
+This project uses the latest web development technologies:
 
 - [React 19](https://react.dev/)
 - [Vite](https://vitejs.dev/)
